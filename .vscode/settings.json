@@ -1,0 +1,10 @@
+{
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": true
+  },
+  "chat.mcp.access": "all",
+  "chat.mcp.autoStart": true
+}
